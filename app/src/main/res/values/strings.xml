@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+    <string name="apel">Apel</string>
+    <string name="version">Alpha v001.0</string>
+    <string name="welcome">Welcome</string>
+</resources>
