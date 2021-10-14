@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
                 Intent home=new Intent(MainActivity.this, Home.class);
                 startActivity(home);
                 finish();
+                
             }
         },loading_time);
     }
