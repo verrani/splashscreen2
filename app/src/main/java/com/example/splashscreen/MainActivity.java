@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.content.Intent;
 import android.os.Handler;
 
+// Hello From Zul :)
+
 public class MainActivity extends AppCompatActivity {
 
     private int loading_time=5000;
